@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Statistics for Strava</Name>
-  <Repository>author/repository:tag</Repository>
+  <Repository>robiningelbrecht/strava-statistics:latest</Repository>
   <Registry>https://hub.docker.com/r/robiningelbrecht/strava-statistics/</Registry>
   <Network>bridge</Network>
   <MyIP/>
